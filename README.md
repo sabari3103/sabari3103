@@ -1,9 +1,9 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm SABARINATHAN VENKATESAN</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<image align="right" alt="coding" widh="400" src="https://dribbble.com/shots/4948736-UI-Developer/attachments/10687954?mode=media"> 
+<image align="right" alt="coding" widh="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
 
-- 🌱 I’m currently learning **java and spring boot**
+  - 🌱 I’m currently learning **java and spring boot**
 
 - 📫 How to reach me **sabari6805502@gmail.com**
 
