@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <image align="right" alt="coding" widh="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
 
-  - 🌱 I’m currently learning **java and spring boot**
+  - 🌱 I’m have a Hands-on Knowledge on **Python, SQL**
 
 - 📫 How to reach me **sabari6805502@gmail.com**
 
